@@ -9,11 +9,11 @@ WhatsApp bot with multi-device support. Features group management (welcome, prom
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License">
 </div>
 
-## 📋 About
+## About
 
 Ryza Assist is a WhatsApp bot built with Baileys library supporting Multi-Device. Designed for group management and media downloading with a clean and professional architecture.
 
-## ✨ Features
+## Features
 
 | Category | Features |
 |----------|----------|
@@ -21,12 +21,12 @@ Ryza Assist is a WhatsApp bot built with Baileys library supporting Multi-Device
 | **Media Downloader** | TikTok, Instagram, YouTube (MP3/MP4), MediaFire |
 | **Utilities** | Auto-read messages, Plugin system, Multi-device support |
 
-## 🚀 Installation
+## Installation
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ryza-assist-bot.git
-cd ryza-assist-bot
+git clone https://github.com/ryzahen/whatsapp-bot-ryza.git
+cd whatsapp-bot-ryza
 
 # Install dependencies
 npm install
